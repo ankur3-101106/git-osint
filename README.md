@@ -2,7 +2,7 @@
 
 Git-OSINT is a web-based tool designed for Open Source Intelligence (OSINT) gathering on Git repositories. It provides a user-friendly interface to analyze and investigate git repositories for valuable information.
 
-![Git-OSINT Screenshot](https://via.placeholder.com/800x450.png?text=Git-OSINT+Screenshot)
+![Git-OSINT Screenshot](https://raw.githubusercontent.com/ankur3-101106/git-osint/refs/heads/main/git-osint.png)
 *(Replace this with a real screenshot of your application)*
 
 ## Features
